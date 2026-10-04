@@ -39,9 +39,8 @@ By smoothing the incoming error signal, the 170 kg airframe is able to track the
 The flight telemetry proves the discrete 50 Hz controllers can successfully command the airframe through simultaneous longitudinal and lateral maneuvers within a 30-second flight envelope, strictly obeying all hardware slew rates.
 
 > **Note:**  
-> *(Insert screenshots of your Altitude and Bank Angle Scope tracking graphs here to visually prove the drone successfully tracked the flight director ramps)*
 > <img width="411" height="269" alt="Screenshot 2026-10-04 002507" src="https://github.com/user-attachments/assets/5e2de4d2-d01c-4747-9468-65b02e1299ed" />
-<img width="408" height="264" alt="Screenshot 2026-10-04 002529" src="https://github.com/user-attachments/assets/0d95aeba-d2ff-44cd-bdf8-00c489c45c37" />
+> <img width="408" height="264" alt="Screenshot 2026-10-04 002529" src="https://github.com/user-attachments/assets/0d95aeba-d2ff-44cd-bdf8-00c489c45c37" />
 
 
 
